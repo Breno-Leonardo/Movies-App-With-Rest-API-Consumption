@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Token Lab Movies</string>
+    <string name="genres">Genres: </string>
+    <string name="vote_average">Vote Average: </string>
+    <string name="vote_count">Number Of Votes: </string>
+    <string name="release_date">Release Date: </string>
+    <string name="overview">Overview </string>
+    <string name="runtime">Runtime: </string>
+    <string name="wait">Loading... </string>
+    <string name="error">Connection error, please check the internet</string>
+    <string name="minutes"> minutes</string>
+    <string name="offline">Offline</string>
+
+</resources>
